@@ -19,3 +19,4 @@ Naruto Uzumaki is a shinobi of Konohagakure. He became the jinchūriki of the Ni
 
 Naruto Uzumaki
 
+They are 
