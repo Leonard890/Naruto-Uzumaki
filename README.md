@@ -51,10 +51,7 @@ Naruto Uzumaki is a shinobi of Konohagakure. He became the [jinchūriki](https:/
 
 -   [![Nature Icon Yin–Yang](https://vignette.wikia.nocookie.net/naruto/images/e/e2/Nature_Icon_Yin%E2%80%93Yang.svg/revision/latest/scale-to-width-down/18?cb=20100916093715)](https://naruto.fandom.com/wiki/Yin%E2%80%93Yang_Release "Yin–Yang Release") [Yin–Yang Release](https://naruto.fandom.com/wiki/Yin%E2%80%93Yang_Release "Yin–Yang Release")
 
- 
- ## 
-
-## Family
+# Family
 
  - [Minato Namikaze](https://hero.fandom.com/wiki/Minato_Namikaze) (Father)
  - [Kushina Uzumaki](https://hero.fandom.com/wiki/Kushina_Uzumaki) (Mother)
@@ -64,7 +61,7 @@ Naruto Uzumaki is a shinobi of Konohagakure. He became the [jinchūriki](https:/
  - [Jiraiya](https://hero.fandom.com/wiki/Jiraiya) (Godfather) 
  
  
- ## List of Accomplishments
+ # List of Accomplishments
 
 1. Naruto changed Gaara's evil ways into good intentions.
 2. Naruto saved the *Fifth Hokage* from Kabuto. 
