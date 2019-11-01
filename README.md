@@ -64,12 +64,12 @@ Naruto Uzumaki is a shinobi of Konohagakure. He became the [jinchūriki](https:/
  # List of Accomplishments
 
 1. Naruto changed Gaara's evil ways into good intentions.
-2. Naruto saved the ***Fifth Hokage** from Kabuto. 
+2. Naruto saved the ***Fifth Hokage*** from Kabuto. 
 3. Naruto saved everyone from *Pain* in the village. 
 4. Naruto saved Sakura with Sasake before he could kill him with a kunai.
 5. Naruto helped defeat Kaguya Ōtsutsuki with help of Sasuke Uchiha, Sakura Haruno, Kakashi and Obito in The Fourth Great Ninja War 
 6. Naruto rescued Sasuke from the darkness after 4 long years. 
-7. Naruto becomes the ***Seventh Hokage***.
+7. Naruto becomes the ****Seventh Hokage****.
 
 
 
