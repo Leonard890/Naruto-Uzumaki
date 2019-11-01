@@ -1,8 +1,6 @@
 # About Naruto-Uzumaki
 
-  In this project, I've decided to do one of my favorite anime characters. 
-
-[Naruto (1999)](https://naruto.fandom.com/wiki/Naruto_%28series%29)
+  In this project, I've decided to do one of my favorite anime characters. [Naruto (1999)](https://naruto.fandom.com/wiki/Naruto_%28series%29)
  is one of my first animes I've come across on. It is also the reason why I started to work out to become a different person. 
 
 
