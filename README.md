@@ -1,6 +1,6 @@
 # About Naruto-Uzumaki
 
-  In this project, I've decided to do one of my favorite anime characters which is Naruto Uzumaki. [Naruto (1999)](https://naruto.fandom.com/wiki/Naruto_%28series%29)
+  In this project, I've decided to do one of my favorite anime characters which is Naruto Uzumaki.  [Naruto (1999)](https://naruto.fandom.com/wiki/Naruto_%28series%29)
  is one of my first animes I've come across on. It is also the reason why I started to work out to become a different person. 
 
 
@@ -64,12 +64,12 @@ Naruto Uzumaki is a shinobi of Konohagakure. He became the [jinchūriki](https:/
  # List of Accomplishments
 
 1. Naruto changed Gaara's evil ways into good intentions.
-2. Naruto saved the *Fifth Hokage* from Kabuto. 
+2. Naruto saved the ***Fifth Hokage** from Kabuto. 
 3. Naruto saved everyone from *Pain* in the village. 
 4. Naruto saved Sakura with Sasake before he could kill him with a kunai.
 5. Naruto helped defeat Kaguya Ōtsutsuki with help of Sasuke Uchiha, Sakura Haruno, Kakashi and Obito in The Fourth Great Ninja War 
 6. Naruto rescued Sasuke from the darkness after 4 long years. 
-7. Naruto becomes the Seventh Hokage.
+7. Naruto becomes the ***Seventh Hokage***.
 
 
 
