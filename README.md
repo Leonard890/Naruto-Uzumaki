@@ -8,6 +8,9 @@
 
 Naruto Uzumaki 
 
+
+< It's almost unbearable, isn't it... the pain of being all alone. I know that feeling, I've been there, in that dark and lonely place, but now there are others, other people who mean a lot to me. I care more about them than I do myself, and I won't let anyone hurt them. That's why I'll never give up, I will stop you, even if I have to kill you! They saved me from myself, they rescued me from my loneliness, they were the first to accept me as who I am. They're my friends.
+
 ![GitHub Logo](https://wallpapercave.com/wp/wp2001685.png)
 
 
