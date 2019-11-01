@@ -1,6 +1,6 @@
 # About Naruto-Uzumaki
 
- In this project, I've decided to do one of my favorite anime characters. Naruto Uzumaki was one of my first animes I've come across on. It is also the reason why I started to work out to become a different person. 
+      In this project, I've decided to do one of my favorite anime characters. Naruto Uzumaki was one of my first animes I've come across on. It is also the reason why I started to work out to become a different person. 
 
 
 > And my dream is to be the greatest Hokage! That way, people will stop disrespecting me and start treating me like I'm somebody. Someone important!"
@@ -23,13 +23,7 @@ Naruto Uzumaki is a shinobi of Konohagakure. He became the jinchūriki of the Ni
 
  - Mult Shadow Clone Jutsu 
  - Taijutsu
- - 
- - 
- - 
- - 
- - 
- - 
- - 
+ -
  
  ## 
 
@@ -44,5 +38,5 @@ Naruto Uzumaki is a shinobi of Konohagakure. He became the jinchūriki of the Ni
 
 
 # Plans for Future Development
-In the future, I would like to talk about other characters in the anime (2002)/manga of Naruto(1999) because all the characters make up the story of how Naruto became the Hokage of the Hidden Leaf Village. In addition, in the future, I would try to add more historical background on the anime/manga itself throughout it's serialization. 
+In the future, I would like to talk about other characters in [the anime (2002)](https://www.imdb.com/title/tt0409591/)/[manga of Naruto(1999)](https://en.wikipedia.org/wiki/List_of_Naruto_volumes) because all the characters make up the story of how Naruto became the Hokage of the Hidden Leaf Village. In addition, in the future, I would try to add more historical background on the anime/manga itself throughout it's serialization. 
 
