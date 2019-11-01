@@ -38,11 +38,20 @@ As an adult, Naruto becomes wiser and more mature, though he retains some of his
 
 
 # Combat Abilities
-
- - Mult Shadow Clone Jutsu 
+- Mult Shadow Clone Jutsu 
  - Taijutsu
  - Original Rasengan (from his master, Jiraiya) 
  - Rasengans (using tailed beasts' chakra) 
+## Transformations 
+
+ - Nine Tails (Stages from one to nine tails); Uncontrolled Power 
+ - Sage Mode (Senjutsu)
+ - Nine-Tails Chakra Mode 
+ - Kurama Chakra Mode
+ - Kurama Chakra Mode with Senjutsu
+ - Sage of the Six Paths transformation 
+    
+ 
  
  
  # Nature Types
