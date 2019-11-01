@@ -113,5 +113,5 @@ in The Fourth Great Ninja War
 
 
 # Plans for Future Development
-In the future, I would like to talk about other characters in [the anime (2002)](https://www.imdb.com/title/tt0409591/)/[manga of Naruto (1999)](https://en.wikipedia.org/wiki/List_of_Naruto_volumes) because all the characters make up the story of how Naruto became the Hokage of the Hidden Leaf Village. In addition, in the future, I would try to add more historical background on the anime/manga itself throughout it's serialization. In short, for the next project, I will plan to add more information for the subject in each specific topic that comes with it to further out my research abilities.  
+In the future, I would like to talk about other characters in [the anime (2002)](https://www.imdb.com/title/tt0409591/)/[manga of Naruto (1999)](https://en.wikipedia.org/wiki/List_of_Naruto_volumes) because all the characters maks up the story of how Naruto becomes the Hokage of the Hidden Leaf Village. In addition, in the future, I would try to add more historical background on the anime/manga itself throughout it's serialization. In short, for the next project, I will plan to add more information for the subject in each specific topic that comes with it to further out my research abilities.  
 
