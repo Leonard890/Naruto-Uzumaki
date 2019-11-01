@@ -12,7 +12,7 @@ Naruto Uzumaki
 
 
 
-## Childhood
+## Childhood/Background
 
 Naruto Uzumaki is fictional character who strives to one day to become the hokage of the Hidden Leaf Village. When he was a baby, his parents Minato Uzumaki and Kushina died after the sudden attack on the Hidden Leaf Village. The village was attacked by the name of Madara Uchiha, later discovered to be Obito Uchiha. 
 
@@ -29,4 +29,6 @@ Naruto Uzumaki is a shinobi of Konohagakure. He became the jinchūriki of the Ni
  - Jiraiya (Godfather) 
 
 
+# Plans for Future Development
+In the future, I would like to talk about other characters in the anime (2002)/manga of Naruto(1999) because all the characters make up the story of how Naruto became the Hokage of the Hidden Leaf Village. In addition, in the future, I would try to add more historical background on the anime/manga itself throughout it's serialization. 
 
