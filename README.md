@@ -54,18 +54,10 @@ As an adult, Naruto becomes wiser and more mature, though he retains some of his
  - Kurama Chakra Mode with Senjutsu
  - Sage of the Six Paths transformation 
  
- ## Kekkei Genkai
  
-  -   [![Nature Icon Lava](https://vignette.wikia.nocookie.net/naruto/images/4/48/Nature_Icon_Lava.svg/revision/latest/scale-to-width-down/18?cb=20091012121231)](https://naruto.fandom.com/wiki/Lava_Release "Lava Release") [Lava Release](https://naruto.fandom.com/wiki/Lava_Release "Lava Release")
-
--   [![Nature Icon Magnet](https://vignette.wikia.nocookie.net/naruto/images/7/7a/Nature_Icon_Magnet.svg/revision/latest/scale-to-width-down/18?cb=20100919225105)](https://naruto.fandom.com/wiki/Magnet_Release "Magnet Release") [Magnet Release](https://naruto.fandom.com/wiki/Magnet_Release "Magnet Release")
-
--   [![Nature Icon Boil](https://vignette.wikia.nocookie.net/naruto/images/e/e9/Nature_Icon_Boil.svg/revision/latest/scale-to-width-down/18?cb=20091012115429)](https://naruto.fandom.com/wiki/Boil_Release "Boil Release") [Boil Release](https://naruto.fandom.com/wiki/Boil_Release "Boil Release")
-
+ #Elements 
  
- 
- 
- # Nature Types
+ ## Nature Types
 
    - [![Nature Icon Wind](https://vignette.wikia.nocookie.net/naruto/images/7/7a/Nature_Icon_Wind.svg/revision/latest/scale-to-width-down/18?cb=20091012163149)](https://naruto.fandom.com/wiki/Wind_Release "Wind Release")  [Wind Release](https://naruto.fandom.com/wiki/Wind_Release "Wind Release") 
 -   [![Nature Icon Lightning](https://vignette.wikia.nocookie.net/naruto/images/a/a3/Nature_Icon_Lightning.svg/revision/latest/scale-to-width-down/18?cb=20091021173339)](https://naruto.fandom.com/wiki/Lightning_Release "Lightning Release") [Lightning Release](https://naruto.fandom.com/wiki/Lightning_Release "Lightning Release")
@@ -87,6 +79,14 @@ As an adult, Naruto becomes wiser and more mature, though he retains some of his
 -   [![Nature Icon Yang](https://vignette.wikia.nocookie.net/naruto/images/6/64/Nature_Icon_Yang.svg/revision/latest/scale-to-width-down/18?cb=20100916093715)](https://naruto.fandom.com/wiki/Yang_Release "Yang Release") [Yang Release](https://naruto.fandom.com/wiki/Yang_Release "Yang Release")
 
 -   [![Nature Icon Yin–Yang](https://vignette.wikia.nocookie.net/naruto/images/e/e2/Nature_Icon_Yin%E2%80%93Yang.svg/revision/latest/scale-to-width-down/18?cb=20100916093715)](https://naruto.fandom.com/wiki/Yin%E2%80%93Yang_Release "Yin–Yang Release") [Yin–Yang Release](https://naruto.fandom.com/wiki/Yin%E2%80%93Yang_Release "Yin–Yang Release")
+
+ ## Kekkei Genkai
+ 
+  -   [![Nature Icon Lava](https://vignette.wikia.nocookie.net/naruto/images/4/48/Nature_Icon_Lava.svg/revision/latest/scale-to-width-down/18?cb=20091012121231)](https://naruto.fandom.com/wiki/Lava_Release "Lava Release") [Lava Release](https://naruto.fandom.com/wiki/Lava_Release "Lava Release")
+
+-   [![Nature Icon Magnet](https://vignette.wikia.nocookie.net/naruto/images/7/7a/Nature_Icon_Magnet.svg/revision/latest/scale-to-width-down/18?cb=20100919225105)](https://naruto.fandom.com/wiki/Magnet_Release "Magnet Release") [Magnet Release](https://naruto.fandom.com/wiki/Magnet_Release "Magnet Release")
+
+-   [![Nature Icon Boil](https://vignette.wikia.nocookie.net/naruto/images/e/e9/Nature_Icon_Boil.svg/revision/latest/scale-to-width-down/18?cb=20091012115429)](https://naruto.fandom.com/wiki/Boil_Release "Boil Release") [Boil Release](https://naruto.fandom.com/wiki/Boil_Release "Boil Release")
 
 # Family
 
