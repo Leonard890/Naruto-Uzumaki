@@ -41,4 +41,3 @@ Naruto Uzumaki is a shinobi of Konohagakure. He became the jinchūriki of the Ni
 
 
 
-> And my dream is to be the greatest Hokage! That way, people will stop disrespecting me and start treating me like I'm somebody. Someone important!"
