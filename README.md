@@ -25,6 +25,31 @@ Naruto Uzumaki is a shinobi of Konohagakure. He became the jinchūriki of the Ni
  - Taijutsu
  -
  
+ 
+ # Nature Types
+
+   [Wind Release](https://naruto.fandom.com/wiki/Wind_Release "Wind Release")
+-   [![Nature Icon Lightning](https://vignette.wikia.nocookie.net/naruto/images/a/a3/Nature_Icon_Lightning.svg/revision/latest/scale-to-width-down/18?cb=20091021173339)](https://naruto.fandom.com/wiki/Lightning_Release "Lightning Release") [Lightning Release](https://naruto.fandom.com/wiki/Lightning_Release "Lightning Release")
+
+-   [![Nature Icon Earth](https://vignette.wikia.nocookie.net/naruto/images/5/52/Nature_Icon_Earth.svg/revision/latest/scale-to-width-down/18?cb=20091012162502)](https://naruto.fandom.com/wiki/Earth_Release "Earth Release") [Earth Release](https://naruto.fandom.com/wiki/Earth_Release "Earth Release")
+
+-   [![Nature Icon Water](https://vignette.wikia.nocookie.net/naruto/images/a/ab/Nature_Icon_Water.svg/revision/latest/scale-to-width-down/18?cb=20091012165923)](https://naruto.fandom.com/wiki/Water_Release "Water Release") [Water Release](https://naruto.fandom.com/wiki/Water_Release "Water Release")
+
+-   [![Nature Icon Fire](https://vignette.wikia.nocookie.net/naruto/images/b/bf/Nature_Icon_Fire.svg/revision/latest/scale-to-width-down/18?cb=20091012120333)](https://naruto.fandom.com/wiki/Fire_Release "Fire Release") [Fire Release](https://naruto.fandom.com/wiki/Fire_Release "Fire Release")
+
+-   [![Nature Icon Lava](https://vignette.wikia.nocookie.net/naruto/images/4/48/Nature_Icon_Lava.svg/revision/latest/scale-to-width-down/18?cb=20091012121231)](https://naruto.fandom.com/wiki/Lava_Release "Lava Release") [Lava Release](https://naruto.fandom.com/wiki/Lava_Release "Lava Release")
+
+-   [![Nature Icon Magnet](https://vignette.wikia.nocookie.net/naruto/images/7/7a/Nature_Icon_Magnet.svg/revision/latest/scale-to-width-down/18?cb=20100919225105)](https://naruto.fandom.com/wiki/Magnet_Release "Magnet Release") [Magnet Release](https://naruto.fandom.com/wiki/Magnet_Release "Magnet Release")
+
+-   [![Nature Icon Boil](https://vignette.wikia.nocookie.net/naruto/images/e/e9/Nature_Icon_Boil.svg/revision/latest/scale-to-width-down/18?cb=20091012115429)](https://naruto.fandom.com/wiki/Boil_Release "Boil Release") [Boil Release](https://naruto.fandom.com/wiki/Boil_Release "Boil Release")
+
+-   [![Nature Icon Yin](https://vignette.wikia.nocookie.net/naruto/images/d/de/Nature_Icon_Yin.svg/revision/latest/scale-to-width-down/18?cb=20100916093714)](https://naruto.fandom.com/wiki/Yin_Release "Yin Release") [Yin Release](https://naruto.fandom.com/wiki/Yin_Release "Yin Release")
+
+-   [![Nature Icon Yang](https://vignette.wikia.nocookie.net/naruto/images/6/64/Nature_Icon_Yang.svg/revision/latest/scale-to-width-down/18?cb=20100916093715)](https://naruto.fandom.com/wiki/Yang_Release "Yang Release") [Yang Release](https://naruto.fandom.com/wiki/Yang_Release "Yang Release")
+
+-   [![Nature Icon Yin–Yang](https://vignette.wikia.nocookie.net/naruto/images/e/e2/Nature_Icon_Yin%E2%80%93Yang.svg/revision/latest/scale-to-width-down/18?cb=20100916093715)](https://naruto.fandom.com/wiki/Yin%E2%80%93Yang_Release "Yin–Yang Release") [Yin–Yang Release](https://naruto.fandom.com/wiki/Yin%E2%80%93Yang_Release "Yin–Yang Release")
+
+ 
  ## 
 
 ## Family
