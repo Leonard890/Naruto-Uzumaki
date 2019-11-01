@@ -4,12 +4,14 @@
  is one of my first animes I've come across on. It is also the reason why I started to work out to become a different person. 
 
 
-> And my dream is to be the greatest Hokage! That way, people will stop disrespecting me and start treating me like I'm somebody. Someone important!"
+> And my dream is to be the greatest Hokage! That way, people will stop disrespecting me and start treating me like I'm somebody. Someone important!
 
 Naruto Uzumaki 
 
 
-< It's almost unbearable, isn't it... the pain of being all alone. I know that feeling, I've been there, in that dark and lonely place, but now there are others, other people who mean a lot to me. I care more about them than I do myself, and I won't let anyone hurt them. That's why I'll never give up, I will stop you, even if I have to kill you! They saved me from myself, they rescued me from my loneliness, they were the first to accept me as who I am. They're my friends.
+> It's almost unbearable, isn't it... the pain of being all alone. I know that feeling, I've been there, in that dark and lonely place, but now there are others, other people who mean a lot to me. I care more about them than I do myself, and I won't let anyone hurt them. That's why I'll never give up, I will stop you, even if I have to kill you! They saved me from myself, they rescued me from my loneliness, they were the first to accept me as who I am. They're my friends.
+
+Naruto Uzumaki
 
 ![GitHub Logo](https://wallpapercave.com/wp/wp2001685.png)
 
