@@ -17,14 +17,15 @@ Naruto Uzumaki
 
 [Naruto Uzumaki](https://www.amazon.co.uk/CoolChange-Kakemono-Roll-up-Poster-Naruto/dp/B00XIAR3AO) is fictional character who strives to one day to become the hokage of the Hidden Leaf Village. When he was a baby, his parents Minato Uzumaki and Kushina died after the sudden attack on the Hidden Leaf Village. The village was attacked by the name of Madara Uchiha, later discovered to be Obito Uchiha. 
 
-Naruto Uzumaki is a shinobi of Konohagakure. He became the jinchūriki of the Nine-Tails on the day of his birth — a fate that caused him to be shunned by most of Konoha throughout his childhood. After joining Team Kakashi, Naruto worked hard to gain the village's acknowledgement all the while chasing his dream to become Hokage. In the following years, through many hardships and ordeals, he became a capable ninja regarded as a hero both by the villagers, and soon after, the rest of the world, becoming known as the Hero of the Hidden Leaf. He soon proved to be one of the main factors in winning the Fourth Shinobi World War, leading him to achieve his dream and become the village's Seventh Hokage.
+Naruto Uzumaki is a shinobi of Konohagakure. He became the [jinchūriki](https://naruto.fandom.com/wiki/Jinch%C5%ABriki) of the Nine-Tails on the day of his birth — a fate that caused him to be shunned by most of Konoha throughout his childhood. After joining Team Kakashi, Naruto worked hard to gain the village's acknowledgement all the while chasing his dream to become Hokage. In the following years, through many hardships and ordeals, he became a capable ninja regarded as a hero both by the villagers, and soon after, the rest of the world, becoming known as the Hero of the Hidden Leaf. He soon proved to be one of the main factors in winning the  *[Fourth Shinobi World War](https://naruto.fandom.com/wiki/Fourth_Shinobi_World_War)*, leading him to achieve his dream and become the village's Seventh Hokage.
 
 
 ## Combat Abilities
 
  - Mult Shadow Clone Jutsu 
  - Taijutsu
- -
+ - Original Rasengan (from his master, Jiraiya) 
+ - Rasengans (using tailed beasts' chakra) 
  
  
  # Nature Types
@@ -69,7 +70,7 @@ Naruto Uzumaki is a shinobi of Konohagakure. He became the jinchūriki of the Ni
 2. Naruto saved the *Fifth Hokage* from Kabuto. 
 3. Naruto saved everyone from *Pain* in the village. 
 4. Naruto saved Sakura with Sasake before he could kill him with a kunai.
-5. Naruto helped defeat Kaguya Ōtsutsuki with help of Sasuke Uchiha, Sakura Haruno, Kakashi and Obito.
+5. Naruto helped defeat Kaguya Ōtsutsuki with help of Sasuke Uchiha, Sakura Haruno, Kakashi and Obito in The Fourth Great Ninja War 
 6. Naruto rescued Sasuke from the darkness after 4 long years. 
 7. Naruto becomes the Seventh Hokage.
 
