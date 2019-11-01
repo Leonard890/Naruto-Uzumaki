@@ -3,6 +3,10 @@
  In this project, I've decided to do one of my favorite anime characters. Naruto Uzumaki was one of my first animes I've come across on. It is also the reason why I started to work out to become a different person. 
 
 
+> And my dream is to be the greatest Hokage! That way, people will stop disrespecting me and start treating me like I'm somebody. Someone important!"
+
+Naruto Uzumaki 
+
 ![GitHub Logo](https://wallpapercave.com/wp/wp2001685.png)
 
 
@@ -35,7 +39,6 @@ Naruto Uzumaki is a shinobi of Konohagakure. He became the jinchūriki of the Ni
  - Hinata Uzumaki (Wife)
  - Jiraiya (Godfather) 
 
-Naruto Uzumaki
 
 
 > And my dream is to be the greatest Hokage! That way, people will stop disrespecting me and start treating me like I'm somebody. Someone important!"
