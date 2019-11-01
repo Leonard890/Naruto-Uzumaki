@@ -55,7 +55,7 @@ As an adult, Naruto becomes wiser and more mature, though he retains some of his
  - Sage of the Six Paths transformation 
  
  
- #Elements 
+ # Elements 
  
  ## Nature Types
 
