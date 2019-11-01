@@ -61,6 +61,18 @@ Naruto Uzumaki is a shinobi of Konohagakure. He became the jinchūriki of the Ni
  - [Himawari Uzumaki](https://hero.fandom.com/wiki/Himawari_Uzumaki) (Daughter)
  - [Hinata Uzumaki](https://hero.fandom.com/wiki/Hinata_Hy%C5%ABga) (Wife)
  - [Jiraiya](https://hero.fandom.com/wiki/Jiraiya) (Godfather) 
+ 
+ 
+ ## List of Accomplishments
+
+1. Naruto changed Gaara's evil ways into good intentions.
+2. Naruto saved the *Fifth Hokage* from Kabuto. 
+3. Naruto saved everyone from *Pain* in the village. 
+4. Naruto saved Sakura with Sasake before he could kill him with a kunai.
+5. Naruto helped defeat Kaguya Ōtsutsuki with help of Sasuke Uchiha, Sakura Haruno, Kakashi and Obito
+6. Naruto rescued Sasuke from the darkness after 4 long years. 
+7. Naruto becomes the Seventh Hokage.
+
 
 
 
