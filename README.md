@@ -1,6 +1,6 @@
 # About Naruto-Uzumaki
 
-        In this project, I've decided to do one of my favorite anime characters. Naruto Uzumaki was one of my first animes I've come across on. It is also the reason why I started to work out to become a different person. 
+ In this project, I've decided to do one of my favorite anime characters. Naruto Uzumaki was one of my first animes I've come across on. It is also the reason why I started to work out to become a different person. 
 
 
 ![GitHub Logo](https://wallpapercave.com/wp/wp2001685.png)
