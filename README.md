@@ -22,7 +22,7 @@ Naruto Uzumaki
 
 ## Childhood
 
-[Naruto Uzumaki](https://www.amazon.co.uk/CoolChange-Kakemono-Roll-up-Poster-Naruto/dp/B00XIAR3AO) is fictional character who strives to one day to become the hokage of the Hidden Leaf Village. When he was a baby, his parents Minato Uzumaki and Kushina died after the sudden attack on the Hidden Leaf Village. The village was attacked by the name of Madara Uchiha, later discovered to be Obito Uchiha. Orphaned, not having parents or anyone else to provide for him, Naruto received monthly income from the village in order to afford daily necessities. Naruto grew up not knowing who his parents were, receiving only his mother's surname, as Hiruzen wanted to protect Naruto from his father's enemies. Minato's dying wish that Naruto be regarded as a hero was honoured by the very few who could put aside their pain and losses caused by the disaster, while the majority of Konoha, however having no knowledge of the circumstances surrounding his birth, openly ostracised and resented Naruto for containing the beast that devastated the village and took many lives; some even viewed Naruto as the Nine-Tails itself. Soon, the Third Hokage forbade anyone from mentioning the Nine-Tails, hoping that the younger generation would not blindly hate Naruto as their parents did. Afterwards, he gained friends that included Sakura Haruno, Sasuke Uchiha, Kakashi katake, etc. 
+[Naruto Uzumaki](https://www.amazon.co.uk/CoolChange-Kakemono-Roll-up-Poster-Naruto/dp/B00XIAR3AO) is fictional character who strives to one day to become the hokage of the Hidden Leaf Village. When he was a baby, his parents Minato Uzumaki and Kushina died after the sudden attack on the Hidden Leaf Village. The village was attacked by the name of Madara Uchiha, later discovered to be Obito Uchiha. Orphaned, not having parents or anyone else to provide for him, Naruto received monthly income from the village in order to afford daily necessities. Naruto grew up not knowing who his parents were, receiving only his mother's surname, as Hiruzen wanted to protect Naruto from his father's enemies. Minato's dying wish that Naruto be regarded as a hero was honoured by the very few who could put aside their pain and losses caused by the disaster, while the majority of Konoha, however having no knowledge of the circumstances surrounding his birth, openly resented Naruto for containing the beast that devastated the village and took many lives; some even viewed Naruto as the Nine-Tails itself. Soon, the Third Hokage forbade anyone from mentioning the Nine-Tails, hoping that the younger generation would not blindly hate Naruto as their parents did. Afterwards, he gained friends that included Sakura Haruno, Sasuke Uchiha, Kakashi katake, etc. 
 
 ## Life as a Shinobi 
 
@@ -40,9 +40,10 @@ As an adult, Naruto becomes wiser and more mature, though he retains some of his
 ## Combat Abilities
 
 - Mult Shadow Clone Jutsu 
- - Taijutsu
- - Original Rasengan (from his master, Jiraiya) 
- - Rasengans (using tailed beasts' chakra) 
+- Taijutsu
+- Ninjutsu
+- Original Rasengan (from his master, Jiraiya) 
+- Rasengans (using tailed beasts' chakra) 
  
 ## Transformations 
 
@@ -52,7 +53,15 @@ As an adult, Naruto becomes wiser and more mature, though he retains some of his
  - Kurama Chakra Mode
  - Kurama Chakra Mode with Senjutsu
  - Sage of the Six Paths transformation 
-    
+ 
+ ## Kekkei Genkai
+ 
+  -   [![Nature Icon Lava](https://vignette.wikia.nocookie.net/naruto/images/4/48/Nature_Icon_Lava.svg/revision/latest/scale-to-width-down/18?cb=20091012121231)](https://naruto.fandom.com/wiki/Lava_Release "Lava Release") [Lava Release](https://naruto.fandom.com/wiki/Lava_Release "Lava Release")
+
+-   [![Nature Icon Magnet](https://vignette.wikia.nocookie.net/naruto/images/7/7a/Nature_Icon_Magnet.svg/revision/latest/scale-to-width-down/18?cb=20100919225105)](https://naruto.fandom.com/wiki/Magnet_Release "Magnet Release") [Magnet Release](https://naruto.fandom.com/wiki/Magnet_Release "Magnet Release")
+
+-   [![Nature Icon Boil](https://vignette.wikia.nocookie.net/naruto/images/e/e9/Nature_Icon_Boil.svg/revision/latest/scale-to-width-down/18?cb=20091012115429)](https://naruto.fandom.com/wiki/Boil_Release "Boil Release") [Boil Release](https://naruto.fandom.com/wiki/Boil_Release "Boil Release")
+
  
  
  
