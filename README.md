@@ -35,13 +35,15 @@ As an adult, Naruto becomes wiser and more mature, though he retains some of his
 
 ![GitHub Logo](https://i0.wp.com/theartmad.com/wp-content/uploads/2015/05/Naruto-Shippuden-Wallpaper-Naruto-Nine-Tail-Form-3.jpg)
 
+# Skills 
 
+## Combat Abilities
 
-# Combat Abilities
 - Mult Shadow Clone Jutsu 
  - Taijutsu
  - Original Rasengan (from his master, Jiraiya) 
  - Rasengans (using tailed beasts' chakra) 
+ 
 ## Transformations 
 
  - Nine Tails (Stages from one to nine tails); Uncontrolled Power 
