@@ -13,7 +13,7 @@ Naruto Uzumaki
 
 
 
-## Childhood/Background
+# Childhood/Background
 
 [Naruto Uzumaki](https://www.amazon.co.uk/CoolChange-Kakemono-Roll-up-Poster-Naruto/dp/B00XIAR3AO) is fictional character who strives to one day to become the hokage of the Hidden Leaf Village. When he was a baby, his parents Minato Uzumaki and Kushina died after the sudden attack on the Hidden Leaf Village. The village was attacked by the name of Madara Uchiha, later discovered to be Obito Uchiha. 
 
