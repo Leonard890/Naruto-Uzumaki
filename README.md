@@ -54,12 +54,13 @@ Naruto Uzumaki is a shinobi of Konohagakure. He became the jinchūriki of the Ni
 
 ## Family
 
- - Minato Namikaze (Father)
- - Kushina Uzumaki (Mother)
- - Boruto Uzumaki (Son)
- - Himawari Uzumaki (Daughter)
- - Hinata Uzumaki (Wife)
- - Jiraiya (Godfather) 
+ - [Minato Namikaze](https://hero.fandom.com/wiki/Minato_Namikaze) (Father)
+ - [Kushina Uzumaki](https://hero.fandom.com/wiki/Kushina_Uzumaki) (Mother)
+ - [Boruto Uzumaki](https://hero.fandom.com/wiki/Boruto_Uzumaki?file=80u0PcZ.png) (Son)
+ - [Himawari Uzumaki](https://hero.fandom.com/wiki/Himawari_Uzumaki) (Daughter)
+ - [Hinata Uzumaki](https://hero.fandom.com/wiki/Hinata_Hy%C5%ABga) (Wife)
+ - [Jiraiya](https://hero.fandom.com/wiki/Jiraiya) (Godfather) 
+
 
 
 # Plans for Future Development
