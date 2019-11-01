@@ -25,6 +25,11 @@ Naruto Uzumaki
 Naruto Uzumaki is a shinobi of Konohagakure. He became the [jinchūriki](https://naruto.fandom.com/wiki/Jinch%C5%ABriki) of the Nine-Tails on the day of his birth — a fate that caused him to be shunned by most of Konoha throughout his childhood. After joining Team Kakashi, Naruto worked hard to gain the village's acknowledgement all the while chasing his dream to become Hokage. In the following years, through many hardships and ordeals, he became a capable ninja regarded as a hero both by the villagers, and soon after, the rest of the world, becoming known as The Hero of the Hidden Leaf. He soon proved to be one of the main factors in winning the [***Fourth Shinobi World War***](https://naruto.fandom.com/wiki/Fourth_Shinobi_World_War), leading him to achieve his dream and become the village's Seventh Hokage.
 
 
+
+![GitHub Logo](https://i0.wp.com/theartmad.com/wp-content/uploads/2015/05/Naruto-Shippuden-Wallpaper-Naruto-Nine-Tail-Form-3.jpg)
+
+
+
 # Combat Abilities
 
  - Mult Shadow Clone Jutsu 
@@ -80,5 +85,5 @@ Naruto Uzumaki is a shinobi of Konohagakure. He became the [jinchūriki](https:/
 
 
 # Plans for Future Development
-In the future, I would like to talk about other characters in [the anime (2002)](https://www.imdb.com/title/tt0409591/)/[manga of Naruto(1999)](https://en.wikipedia.org/wiki/List_of_Naruto_volumes) because all the characters make up the story of how Naruto became the Hokage of the Hidden Leaf Village. In addition, in the future, I would try to add more historical background on the anime/manga itself throughout it's serialization. 
+In the future, I would like to talk about other characters in [the anime (2002)](https://www.imdb.com/title/tt0409591/)/[manga of Naruto (1999)](https://en.wikipedia.org/wiki/List_of_Naruto_volumes) because all the characters make up the story of how Naruto became the Hokage of the Hidden Leaf Village. In addition, in the future, I would try to add more historical background on the anime/manga itself throughout it's serialization. 
 
