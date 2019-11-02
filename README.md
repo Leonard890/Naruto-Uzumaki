@@ -1,7 +1,7 @@
 # About Naruto Uzumaki: The Child of Prophecy 
 
   In this project, I've decided to do one of my favorite anime characters which is **Naruto Uzumaki**.  [Naruto (1999)](https://naruto.fandom.com/wiki/Naruto_%28series%29)
- is one of my first animes I've come across on. It is also the reason why I started to work out to become a different person. When I was 12 years old, I started watching Naruto because it gave me excitement and motivated me to get good grades and workout during my free time. 
+ is one of my first animes I've come acrossed. It is also the reason why I started to work out to become a different person. When I was 12 years old, I started watching Naruto because it gave me excitement and motivated me to get good grades and workout during my free time. 
 
 
 > And my dream is to be the greatest Hokage! That way, people will stop disrespecting me and start treating me like I'm somebody. Someone important!
