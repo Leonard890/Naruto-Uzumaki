@@ -39,20 +39,25 @@ As an adult, Naruto becomes wiser and more mature, though he retains some of his
 
 ## Combat Abilities
 
-- Mult Shadow Clone Jutsu 
-- Taijutsu
-- Ninjutsu
-- Original Rasengan (from his master, Jiraiya) 
-- Rasengans (using tailed beasts' chakra) 
+
+-  [Multiple Shadow Clone Technique](https://naruto.fandom.com/wiki/Multiple_Shadow_Clone_Technique)
+-  [Taijutsu](https://naruto.fandom.com/wiki/Taijutsu)
+-  [Ninjutsu](https://naruto.fandom.com/wiki/Ninjutsu)
+-  [Rasengan: Flash](https://naruto.fandom.com/wiki/Rasengan:_Flash) 
+-  [Rasengan](https://naruto.fandom.com/wiki/Rasengan)
+-  [Tailed Beast Rasengan](https://naruto.fandom.com/wiki/Tailed_Beast_Rasengan)
+
+-   
  
 ## Transformations 
 
- - Nine Tails (Stages from one to nine tails); Uncontrolled Power 
- - Sage Mode (Senjutsu)
- - Nine-Tails Chakra Mode 
- - Kurama Chakra Mode
- - Kurama Chakra Mode with Senjutsu
- - Sage of the Six Paths transformation 
+
+-   [Nine Tails (Stages from one to nine tails); Uncontrolled Power](https://naruto.fandom.com/wiki/Kurama)
+-   [Sage Mode (Senjutsu)](https://naruto.fandom.com/wiki/Senjutsu)
+-   [Nine-Tails Chakra Mode](https://naruto.fandom.com/wiki/Nine-Tails_Chakra_Mode)
+-   [Kurama Chakra Mode with Senjutsu](https://naruto.fandom.com/wiki/Nine-Tails_Chakra_Mode)
+-   [Six Path Sage Mode](https://naruto.fandom.com/wiki/Six_Paths_Sage_Mode) 
+
  
  
  # Elements 
