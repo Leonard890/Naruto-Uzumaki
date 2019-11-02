@@ -105,7 +105,7 @@ As an adult, Naruto becomes wiser and more mature, though he retains some of his
 1. Naruto changed Gaara's evil ways into *good* intentions.
 2. Naruto saved the ***Fifth Hokage*** from Kabuto. 
 3. Naruto saved everyone from *Pain* in the village. 
-4. Naruto saved Sakura with Sasake before he could kill him with a kunai.
+4. Naruto saved Sakura with Sasake before he could kill him with a [kunai](https://www.amazon.com/Hunting-Paracord-Wrapped-throwing-EcoGift/dp/B075T6BGKR/ref=asc_df_B075T6BGKR/?tag=bingshoppinga-20&linkCode=df0&hvadid=%7Bcreative%7D&hvpos=%7Badposition%7D&hvnetw=o&hvrand=%7Brandom%7D&hvpone=&hvptwo=&hvqmt=e&hvdev=c&hvdvcmdl=%7Bdevicemodel%7D&hvlocint=&hvlocphy=&hvtargid=pla-4583932699493754&psc=1).
 5. Naruto helped defeat Kaguya Ōtsutsuki with help of [Sasuke Uchiha](https://naruto.fandom.com/wiki/Sasuke_Uchiha), [Sakura Haruno](https://naruto.fandom.com/wiki/Sakura_Haruno#Part%20I), [Kakashi Hatake](https://naruto.fandom.com/wiki/Kakashi_Hatake#Parts%20I-II)  and [Obito Uchiha](https://naruto.fandom.com/wiki/Obito_Uchiha#Obito) 
 in The Fourth Great Ninja War 
 6. Naruto rescued Sasuke from the darkness after 4 long years. 
