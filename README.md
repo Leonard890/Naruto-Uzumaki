@@ -108,11 +108,11 @@ As an adult, Naruto becomes wiser and more mature, though he retains some of his
 4. Naruto saved Sakura with Sasake before he could kill him with a [kunai](https://www.amazon.com/Hunting-Paracord-Wrapped-throwing-EcoGift/dp/B075T6BGKR/ref=asc_df_B075T6BGKR/?tag=bingshoppinga-20&linkCode=df0&hvadid=%7Bcreative%7D&hvpos=%7Badposition%7D&hvnetw=o&hvrand=%7Brandom%7D&hvpone=&hvptwo=&hvqmt=e&hvdev=c&hvdvcmdl=%7Bdevicemodel%7D&hvlocint=&hvlocphy=&hvtargid=pla-4583932699493754&psc=1).
 5. Naruto helped defeat Kaguya Ōtsutsuki with help of [Sasuke Uchiha](https://naruto.fandom.com/wiki/Sasuke_Uchiha), [Sakura Haruno](https://naruto.fandom.com/wiki/Sakura_Haruno#Part%20I), [Kakashi Hatake](https://naruto.fandom.com/wiki/Kakashi_Hatake#Parts%20I-II)  and [Obito Uchiha](https://naruto.fandom.com/wiki/Obito_Uchiha#Obito) 
 in ***The Fourth Great Ninja War***
-6. Naruto rescued Sasuke from the darkness after 4 long years. 
+6. Naruto rescued Sasuke from the **darkness** after 4 long years. 
 7. Naruto becomes the ***Seventh Hokage***.
 
 
 
 
 # Plans for Future Development
-In the future, I would like to talk about other characters in [the anime (2002)](https://www.imdb.com/title/tt0409591/)/[manga of Naruto (1999)](https://en.wikipedia.org/wiki/List_of_Naruto_volumes) because all the characters make up the story of how Naruto becomes the Hokage of the Hidden Leaf Village. Also, in the future, I would try to add more historical background on the anime/manga itself throughout its serialization. In short, for the next project, I will plan to add more information for the subject in each specific topic that comes with it to further out my research abilities.  
+In the future, I would like to talk about other characters in [the anime (2002)](https://www.imdb.com/title/tt0409591/)/[manga of Naruto (1999)](https://en.wikipedia.org/wiki/List_of_Naruto_volumes) because all the *characters* make up the story of how Naruto becomes the Hokage of the Hidden Leaf Village. Also, in the future, I would try to add more historical background on the anime/manga itself throughout its serialization. In short, for the next project, I will plan to add more information for the **subject** in each specific topic that comes with it to further out my research abilities.  
