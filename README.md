@@ -1,7 +1,7 @@
 # About Naruto Uzumaki: The Child of Prophecy 
 
   In this project, I've decided to do one of my favorite anime characters which is **Naruto Uzumaki**.  [Naruto (1999)](https://naruto.fandom.com/wiki/Naruto_%28series%29)
- is one of my first animes I've come across on. It is also the reason why I started to work out to become a different person. 
+ is one of my first animes I've come across on. It is also the reason why I started to work out to become a different person. When I was 12 years old, I started watching Naruto because it gave me excitement and motivated me to get good grades and workout during my free time. 
 
 
 > And my dream is to be the greatest Hokage! That way, people will stop disrespecting me and start treating me like I'm somebody. Someone important!
@@ -104,7 +104,7 @@ As an adult, Naruto becomes wiser and more mature, though he retains some of his
 
 1. Naruto changed Gaara's evil ways into *good* intentions.
 2. Naruto saved the ***Fifth Hokage*** from Kabuto. 
-3. Naruto saved everyone from [*Pain*](https://naruto.fandom.com/wiki/Pain%27s_Assault)in the village. 
+3. Naruto saved everyone from [*Pain*](https://naruto.fandom.com/wiki/Pain%27s_Assault) in the village. 
 4. Naruto saved Sakura with Sasake before he could kill him with a [kunai](https://www.amazon.com/Hunting-Paracord-Wrapped-throwing-EcoGift/dp/B075T6BGKR/ref=asc_df_B075T6BGKR/?tag=bingshoppinga-20&linkCode=df0&hvadid=%7Bcreative%7D&hvpos=%7Badposition%7D&hvnetw=o&hvrand=%7Brandom%7D&hvpone=&hvptwo=&hvqmt=e&hvdev=c&hvdvcmdl=%7Bdevicemodel%7D&hvlocint=&hvlocphy=&hvtargid=pla-4583932699493754&psc=1).
 5. Naruto helped defeat Kaguya Ōtsutsuki with help of [Sasuke Uchiha](https://naruto.fandom.com/wiki/Sasuke_Uchiha), [Sakura Haruno](https://naruto.fandom.com/wiki/Sakura_Haruno#Part%20I), [Kakashi Hatake](https://naruto.fandom.com/wiki/Kakashi_Hatake#Parts%20I-II)  and [Obito Uchiha](https://naruto.fandom.com/wiki/Obito_Uchiha#Obito) 
 in ***The Fourth Great Ninja War***
