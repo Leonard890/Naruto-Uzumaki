@@ -39,7 +39,6 @@ As an adult, Naruto becomes wiser and more mature, though he retains some of his
 
 ## Combat Abilities
 
-
 -  [Multiple Shadow Clone Technique](https://naruto.fandom.com/wiki/Multiple_Shadow_Clone_Technique)
 -  [Taijutsu](https://naruto.fandom.com/wiki/Taijutsu)
 -  [Ninjutsu](https://naruto.fandom.com/wiki/Ninjutsu)
@@ -50,7 +49,6 @@ As an adult, Naruto becomes wiser and more mature, though he retains some of his
 -   
  
 ## Transformations 
-
 
 -   [Nine Tails (Stages from one to nine tails); Uncontrolled Power](https://naruto.fandom.com/wiki/Kurama)
 -   [Sage Mode (Senjutsu)](https://naruto.fandom.com/wiki/Senjutsu)
