@@ -61,7 +61,7 @@ As an adult, Naruto becomes wiser and more mature, though he retains some of his
  
  ## Nature Types
 
-   - [![Nature Icon Wind](https://vignette.wikia.nocookie.net/naruto/images/7/7a/Nature_Icon_Wind.svg/revision/latest/scale-to-width-down/18?cb=20091012163149)](https://naruto.fandom.com/wiki/Wind_Release "Wind Release")  [Wind Release](https://naruto.fandom.com/wiki/Wind_Release "Wind Release") 
+- [![Nature Icon Wind](https://vignette.wikia.nocookie.net/naruto/images/7/7a/Nature_Icon_Wind.svg/revision/latest/scale-to-width-down/18?cb=20091012163149)](https://naruto.fandom.com/wiki/Wind_Release "Wind Release")  [Wind Release](https://naruto.fandom.com/wiki/Wind_Release "Wind Release") 
 -   [![Nature Icon Lightning](https://vignette.wikia.nocookie.net/naruto/images/a/a3/Nature_Icon_Lightning.svg/revision/latest/scale-to-width-down/18?cb=20091021173339)](https://naruto.fandom.com/wiki/Lightning_Release "Lightning Release") [Lightning Release](https://naruto.fandom.com/wiki/Lightning_Release "Lightning Release")
 
 -   [![Nature Icon Earth](https://vignette.wikia.nocookie.net/naruto/images/5/52/Nature_Icon_Earth.svg/revision/latest/scale-to-width-down/18?cb=20091012162502)](https://naruto.fandom.com/wiki/Earth_Release "Earth Release") [Earth Release](https://naruto.fandom.com/wiki/Earth_Release "Earth Release")
